@@ -17,3 +17,16 @@ wp-content/plugins/hello.php
 /sitemap.xml
 /sitemap.xml.gz
 
+# Atom FTP Remote
+.ftpconfig
+.ftpignore
+*.ftpconfig
+*.ftpignore
+
+# DW Dreamweaver added files
+_notes
+_compareTemp
+cinfigs/
+dwsync.xml
+dw_php_codehinting.config
+*.mno
