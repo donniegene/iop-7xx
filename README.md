@@ -11,3 +11,7 @@ WEB - 225 Multimedia for the Web - inside out project iop-7xx
       - Created assets/css/style.
       - Created styles for snowman divs
       - Linked style.css file in index.html
+
+### Step 700 Branch 700-1
+      - Added snowman face & hat divs to index.html
+      - Created styles for snowman face & hat divs
