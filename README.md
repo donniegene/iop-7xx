@@ -20,6 +20,6 @@ WEB - 225 Multimedia for the Web - inside out project iop-7xx
       - Added hill dix to index.html directly below the snowman
       - Added the hill class styles to the style.css file
       - Added background gradients to the body
-      - Forced content to stay in window and the overflow to be hidden
+      - Forced content to stay in window and the overflow to be hidden by adding html styles
       - Forced scroll bar to be hidden
       - Updated snowman style to center the snowman and text in the screen
